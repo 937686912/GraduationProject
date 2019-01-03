@@ -9,6 +9,10 @@
 - 阅读过程中应当标出重点，做好笔记，为后续撰写综述做好准备
 - 如在阅读过程中有不懂的地方，记录下来，一起讨论
 
+:woman_teacher: : 每人至少 15 篇参考文献，再附中英文献若干[点击下载](https://github.com/AnakinYang/GraduationProject/blob/master/references/article.zip)
+
+:notebook: ：论文排版，请在撰写之前对照学校论文要求学习[Word 排版](https://github.com/AnakinYang/GraduationProject/blob/master/references/guide.pdf)
+
 ## TODO
 
 - [ ] 文献综述
