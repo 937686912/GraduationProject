@@ -13,6 +13,14 @@
 
 :notebook: ：论文排版，请在撰写之前对照学校论文要求学习[Word 排版](https://github.com/AnakinYang/GraduationProject/blob/master/references/guide.pdf)
 
+:paperclip: ：参考文献格式，推荐使用 [Zotero](https://www.zotero.org/) 。
+
+基于`Chinese-GB7714-2005-numeric` 调整了 `.csl` 文件的部分内容：
+
+1. 解决了引用中文文献出现"**等**"而非“**et.al**”的问题
+2. 解决了作者名**全部大写**而非**首字母大写**的问题
+3. 保留了原 `.csl` 文件的设置，参考[文件](https://github.com/AnakinYang/GraduationProject/blob/master/chinese-gb7714-2005-numeric-modified)中注释，可自行切换
+
 ## TODO
 
 - [ ] 文献综述
@@ -49,3 +57,4 @@
 ---
 
 - [ ] 毕业论文
+
