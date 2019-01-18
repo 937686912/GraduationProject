@@ -21,6 +21,10 @@
 2. 解决了作者名**全部大写**而非**首字母大写**的问题
 3. 保留了原 `.csl` 文件的设置，参考[文件](https://github.com/AnakinYang/GraduationProject/blob/master/chinese-gb7714-2005-numeric-modified)中注释，可自行切换
 
+:computer: ：光谱仪使用说明：
+
+[F-4600说明书（详细）](http://cires.colorado.edu/jimenez/CHEM-4181/FLSolutionsOperationManual251-9067-2.pdf), [F-4600说明书（简要）](http://www.technos.in/uploads/F-4600%20brochure.pdf)
+
 ## TODO
 
 - [x] 文献综述
@@ -33,7 +37,7 @@
     - [x] @LiZhuodong [钨酸盐](https://github.com/AnakinYang/GraduationProject/raw/master/references/zhang2018.pdf)
     - [x] @LuoYueting [钇酸盐](https://github.com/AnakinYang/GraduationProject/raw/master/references/deshmukh2016.pdf)
     - [x] @LiCheng [钼酸盐](https://github.com/AnakinYang/GraduationProject/raw/master/references/xu2018.pdf)
-  - [ ] 撰写综述 `DEADLINE: 2019.01.16`
+  - [x] 撰写综述 `DEADLINE: 2019.01.16`
 
 ---
 
