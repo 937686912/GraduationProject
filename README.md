@@ -2,7 +2,7 @@
 
 请各位同学按照下面的待办事项列表，在**截止日期**前**认真**完成。
 
-*注意事项*：
+:warning: :*注意事项*：
 
 - **1 :: 第一章** 是指阅读文献 1 的第一章
 - 点击对应的文献标题链接，即可下载文献
@@ -13,7 +13,7 @@
 
 :notebook: ：论文排版，请在撰写之前对照学校论文要求学习[Word 排版](https://github.com/AnakinYang/GraduationProject/blob/master/references/guide.pdf)
 
-:paperclip: ：参考文献格式，推荐使用 [Zotero](https://www.zotero.org/) 。
+:package: : 参考文献格式，推荐使用 [Zotero](https://www.zotero.org/) 。
 
 基于`Chinese-GB7714-2005-numeric` 调整了 `.csl` 文件的部分内容：
 
@@ -21,9 +21,9 @@
 2. 解决了作者名**全部大写**而非**首字母大写**的问题
 3. 保留了原 `.csl` 文件的设置，参考[文件](https://github.com/AnakinYang/GraduationProject/blob/master/chinese-gb7714-2005-numeric-modified)中注释，可自行切换
 
-:computer: ：光谱仪使用说明：
+:chart: ：光谱仪使用说明：[F-4600说明书（详细）](http://cires.colorado.edu/jimenez/CHEM-4181/FLSolutionsOperationManual251-9067-2.pdf), [F-4600说明书（简要）](http://www.technos.in/uploads/F-4600%20brochure.pdf)
 
-[F-4600说明书（详细）](http://cires.colorado.edu/jimenez/CHEM-4181/FLSolutionsOperationManual251-9067-2.pdf), [F-4600说明书（简要）](http://www.technos.in/uploads/F-4600%20brochure.pdf)
+:bookmark_tabs: : [学术写作指要——一个技术指导(Essentials of academic writing—A technical approach)](https://chriszheng.science/essentials-of-academic-writing/)
 
 ## TODO
 
